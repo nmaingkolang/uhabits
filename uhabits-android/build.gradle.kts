@@ -86,10 +86,10 @@ android {
 }
 
 dependencies {
-    val daggerVersion = "2.40.3"
-    val kotlinVersion = "1.6.0"
+    val daggerVersion = "2.40.5"
+    val kotlinVersion = "1.6.10"
     val kxCoroutinesVersion = "1.5.2"
-    val ktorVersion = "1.6.6"
+    val ktorVersion = "1.6.7"
     val espressoVersion = "3.4.0"
 
     androidTestImplementation("androidx.test.espresso:espresso-contrib:$espressoVersion")
